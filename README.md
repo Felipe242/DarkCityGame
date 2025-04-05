@@ -1,5 +1,5 @@
 Dark City 
-Um jogo desenvolvido durante as aulas práticas de Análise e Desenvolvimento de Sistemas (ADS) na instituição Uninter, utilizando Python e Pygame. O objetivo do jogo é abater naves inimigas e acumular pontos. Ele pode ser jogado no modo:
+Um jogo desenvolvido durante as aulas práticas de Análise e Desenvolvimento de Sistemas (ADS) na instituição Uninter, utilizando Python e Pygame. O objetivo do jogo é abater inimigas e acumular pontos. Ele pode ser jogado no modo:
 
 1 jogador: desafie a si mesmo.
 
